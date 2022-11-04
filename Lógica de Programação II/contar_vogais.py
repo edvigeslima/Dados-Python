@@ -1,6 +1,5 @@
 """
-Escreva uma função chamada mais_frequente que receba uma string e
-exiba as letras em ordem decrescente de frequência. Observação: Use dicionários na implementação.
+Escreva A conta do cartão de crédito Observação: Use dicionários na implementação.
 
 """
 
